@@ -1,0 +1,62 @@
+.fourteen {
+  background-color: blue;
+  opacity: 1;
+}
+
+.thirt {
+  background-color: blue;
+  opacity: 0.8;
+}
+.twl {
+  background-color: blue;
+  opacity: 0.6;
+}
+.elv {
+  background-color: blue;
+  opacity: 0.5;
+}
+
+.ten {
+  background-color: blue;
+  opacity: 0.4;
+}
+.nine {
+  background-color: blue;
+  opacity: 0.3;
+}
+.eight {
+  background-color: blue;
+  opacity: 0.2;
+}
+.seven {
+  background-color: hotpink;
+  opacity: 1;
+}
+.six {
+  background-color: hotpink;
+  opacity: 0.8;
+}
+.five {
+  background-color: hotpink;
+  opacity: 0.7;
+}
+.four {
+  background-color: hotpink;
+  opacity: 0.6;
+}
+.three {
+  background-color: hotpink;
+  opacity: 0.4;
+}
+.two {
+  background-color: hotpink;
+  opacity: 0.3;
+}
+.one {
+  background-color: hotpink;
+  opacity: 0.2;
+}
+
+body {
+  color: black;
+}
